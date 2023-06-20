@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609964566086",
+    "project_id": "mi-quiniela-mx",
+    "storage_bucket": "mi-quiniela-mx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609964566086:android:0bf9f91956ea24073c8c47",
+        "android_client_info": {
+          "package_name": "com.example.miquinielamx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609964566086-6kplksojk4vcvc7ke2g5d5oqi93jcqks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsYbJ_MYFYdIyZOORoHLvmGouwdxAO4yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609964566086-6kplksojk4vcvc7ke2g5d5oqi93jcqks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

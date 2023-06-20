@@ -9,7 +9,7 @@ import com.example.miquinielamx.databinding.ActivitySplashBinding
 import com.example.miquinielamx.module.feature_tools.context.navigateToActivityClearTop
 import dagger.hilt.android.AndroidEntryPoint
 
-@SuppressLint("SplashScreen")
+@SuppressLint("CustomSplashScreen")
 @AndroidEntryPoint
 class SplashActivity : AppCompatActivity() {
 
